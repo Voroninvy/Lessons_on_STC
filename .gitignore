@@ -11,4 +11,5 @@
 /.idea/*
 /.vscode/*
 /out/*
+/src/*
 *.sw*
