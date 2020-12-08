@@ -4,7 +4,7 @@
 *.env
 *.iml
 *.log
-*.gitignore
+.gitignore
 
 # Игнорирование файлов (во всех дирректориях), специфичных для IDEA
 .idea/
