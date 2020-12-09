@@ -19,13 +19,13 @@ public class Task_1 {
         System.out.println("Ответ:");
 
         if (x - y == 0) {
-            System.out.println("Найти минимальное значение не удалось, значение x = y (" + x + " = " + y);
+            System.out.println("Найти минимальное значение не удалось, значение x = y (" + x + " = " + y + ")");
         }
         else
             if (x>y) {
-                System.out.println("Значение числа x > y (" + x + " > " + y);
+                System.out.println("Значение числа x > y (" + x + " > " + y + ")");
             }
             else
-                System.out.println("Значение числа x < y (" + x + " < " + y);
+                System.out.println("Значение числа x < y (" + x + " < " + y + ")");
     }
 }
