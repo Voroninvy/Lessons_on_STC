@@ -10,7 +10,7 @@ public class Task_1 {
 
      */
 
-        int x = 48;
+        int x = -66;
         int y = 65;
 
         System.out.println("Программа поиска минимального из двух чисел: X и Y");
