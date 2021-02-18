@@ -15,4 +15,6 @@ public class Garbage_1 {
         } while (i>0);
         System.out.println("I = " + i);
     }
+
+
 }
