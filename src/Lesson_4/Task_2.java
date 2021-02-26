@@ -12,8 +12,8 @@ public class Task_2 {
 
      */
 
-        //Random random = new Random();
-        int x = 5;
+        Random random = new Random();
+        int x = random.nextInt(100);
 
         System.out.println("Программа описывает число X ");
         System.out.println("Входные параметры X = " + x);
